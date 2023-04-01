@@ -25,6 +25,8 @@ class App extends Component {
             Learn React
           </a>
         </header>
+        <h1>Sample Application</h1>
+        <p>サンプルアプリケーションです</p>
       </div>
     );
   }
